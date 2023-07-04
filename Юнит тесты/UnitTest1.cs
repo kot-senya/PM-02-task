@@ -18,8 +18,7 @@ namespace Юнит_тесты
 
         [Fact]
         public void True()
-        {
-            //ожидаемое = результат
+        {            
             Assert.True(false);
         }
     }
